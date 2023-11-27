@@ -1,7 +1,6 @@
 [mermaid-history-2023-11-27-011056.json](https://github.com/shalomtorress/proyecto/files/13470367/mermaid-history-2023-11-27-011056.json)# proyecto
 ## Problema
 Prediccion de cultivos de cafe para tener un estimado para el momento de la postcosecha
-## Diagrama 
 
 ## Solucion 
 El programa proporciona una herramienta para preveer los rendimientos de las cosechas de cafe basandose en variables historicas 
