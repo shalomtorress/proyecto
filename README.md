@@ -1,4 +1,4 @@
-# proyecto
+[mermaid-history-2023-11-27-011056.json](https://github.com/shalomtorress/proyecto/files/13470367/mermaid-history-2023-11-27-011056.json)# proyecto
 ## Problema
 Prediccion de cultivos de cafe para tener un estimado para el momento de la postcosecha
 ## Diagrama 
@@ -167,4 +167,11 @@ def ejecutarPrograma():
 if __name__ == "__main__":
     ejecutarPrograma()
 ````
+## Diagrama de Flujo
+
+   
+![mermaid-diagram-2023-11-27-011305](https://github.com/shalomtorress/proyecto/assets/141857054/5048cda1-853d-479d-b8a4-0f843739034a)
+
+
+
 
